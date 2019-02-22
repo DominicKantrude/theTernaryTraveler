@@ -1,0 +1,32 @@
+.placeSection{
+    border: 1px solid black;
+margin: 15px;
+padding: 25px;
+}
+
+.cardHeader{
+    display: flex;
+
+    flex-direction: row;
+   justify-content: space-evenly;
+
+    font-size: 25px;
+    background-color: lightgrey;
+}
+#locationSection{
+    display: inline-block;
+}
+.interestSection{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px 25px;
+    margin: 25px 5px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.createNewInterest{
+    border: 1px solid black;
+    padding: 15px 25px;
+    margin: 25px 5px;
+}
+

@@ -1,0 +1,33 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Italy",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "placeId": "2",
+      "name": "a switz place",
+      "description": "coo",
+      "id": 9
+    },
+    {
+      "placeId": "2",
+      "name": "a swiz place",
+      "description": "coo",
+      "id": 10
+    }
+  ]
+}
